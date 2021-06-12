@@ -44,7 +44,7 @@ function Weader() {
         />
        
         <button type="button" onClick={() => getData()}>
-          Pesquisar
+          Buscar
         </button>
       </div>
 
